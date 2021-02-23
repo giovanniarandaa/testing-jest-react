@@ -1,0 +1,23 @@
+{
+  "name": "testing-jest-react",
+  "version": "1.0.0",
+  "description": "pruebas unitarias con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giovanniarandaa/testing-jest-react.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giovanniarandaa/testing-jest-react/issues"
+  },
+  "homepage": "https://github.com/giovanniarandaa/testing-jest-react#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
